@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://oryun1001.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://oryun1001.github.io</link></image><lastBuildDate>Tue, 02 Jul 2024 07:03:42 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>如何安装梦奈宝塔面板</title><link>https://oryun1001.github.io/post/ru-he-an-zhuang-meng-nai-bao-ta-mian-ban.html</link><description>首先，我们都知道，梦奈宝塔是依靠宝塔面板运行的，所以，我们需要先安装宝塔面板，安装命令如下：&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://oryun1001.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://oryun1001.github.io</link></image><lastBuildDate>Tue, 02 Jul 2024 07:27:19 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Python小教学</title><link>https://oryun1001.github.io/post/Python-xiao-jiao-xue.html</link><description>打开[python.org](url)下载最新版的Python，打开Python IDLE，在左上角的`File`中点击`New File`，并输入以下这一串Code，用来导入Turtle&#13;
+```Python&#13;
+import turtle&#13;
+```&#13;
+指令介绍：`forward()`使画笔前进&#13;
+`right()`使画笔右转&#13;
+&#13;
+配合使用&#13;
+```Python&#13;
+import turtle&#13;
+turtle.forward(100)&#13;
+turtle.right(90)&#13;
+turtle.forward(100)&#13;
+turtle.right(90)t&#13;
+urtle.forward(100)&#13;
+turtle.right(90)&#13;
+turtle.forward(100)&#13;
+turtle.right(90)&#13;
+```&#13;
+即可画出一个正方形。</description><guid isPermaLink="true">https://oryun1001.github.io/post/Python-xiao-jiao-xue.html</guid><pubDate>Tue, 02 Jul 2024 07:26:47 +0000</pubDate></item><item><title>如何安装梦奈宝塔面板</title><link>https://oryun1001.github.io/post/ru-he-an-zhuang-meng-nai-bao-ta-mian-ban.html</link><description>首先，我们都知道，梦奈宝塔是依靠宝塔面板运行的，所以，我们需要先安装宝塔面板，安装命令如下：&#13;
 Centos:`yum install -y wget -O install.sh https://download.bt.cn/install/install_6.0.sh &amp;&amp; sh install.sh ed8484bec`&#13;
 Ubuntu/Debian:`wget -O install.sh https://download.bt.cn/install/install-ubuntu_6.0.sh &amp;&amp; sudo bash install.sh ed8484bec`&#13;
 之后在宝塔面板添加网站，域名为xxx.xxx or xxx.xxx.xxx&#13;
