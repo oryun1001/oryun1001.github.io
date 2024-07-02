@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://oryun1001.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://oryun1001.github.io</link></image><lastBuildDate>Tue, 02 Jul 2024 07:27:19 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Python小教学</title><link>https://oryun1001.github.io/post/Python-xiao-jiao-xue.html</link><description>打开[python.org](url)下载最新版的Python，打开Python IDLE，在左上角的`File`中点击`New File`，并输入以下这一串Code，用来导入Turtle&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://oryun1001.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://oryun1001.github.io</link></image><lastBuildDate>Tue, 02 Jul 2024 07:32:27 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Python小教学</title><link>https://oryun1001.github.io/post/Python-xiao-jiao-xue.html</link><description>打开[https://python.org/](url)下载最新版的Python，打开Python IDLE，在左上角的`File`中点击`New File`，并输入以下这一串Code，用来导入Turtle&#13;
 ```Python&#13;
 import turtle&#13;
 ```&#13;
@@ -12,8 +12,8 @@ import turtle&#13;
 turtle.forward(100)&#13;
 turtle.right(90)&#13;
 turtle.forward(100)&#13;
-turtle.right(90)t&#13;
-urtle.forward(100)&#13;
+turtle.right(90)&#13;
+turtle.forward(100)&#13;
 turtle.right(90)&#13;
 turtle.forward(100)&#13;
 turtle.right(90)&#13;
